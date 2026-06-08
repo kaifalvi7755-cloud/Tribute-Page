@@ -1,0 +1,101 @@
+body {
+    background-color: rgb(247, 215, 176);
+
+}
+
+#main {
+    background-color: rgb(0, 177, 118);
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#star {
+    color: rgb(153, 14, 151);
+}
+
+picture {
+    background-color: rgb(245, 200, 96);
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+#num {
+    margin: 10px;
+    box-shadow: inset;
+
+}
+
+p {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+    margin: 100px;
+}
+
+a {
+    background-color: rgb(222, 126, 247);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+a:hover {
+    background-color: #d1a0e8;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 200px;
+    width: 450px;
+}
+
+td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+}
+
+.imgn {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 100px;
+    width: 350px;
+}
+
+#show {
+    color: rgba(4, 105, 4, 0.479);
+    text-decoration: dotted;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+table {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
